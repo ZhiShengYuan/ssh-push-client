@@ -1,0 +1,10 @@
+[
+  {
+    "command": "ls",
+    "user": "user1"
+  },
+  {
+    "command": "cat /etc/passwd",
+    "user": "user2"
+  }
+]
